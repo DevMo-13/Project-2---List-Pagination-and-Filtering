@@ -3,7 +3,7 @@
 
 Website of student entries with pagination.
 
-Live link to the project can be found here: https://devmo-13.github.io/list-pagination-and-filtering/.
+###### Live link to the project can be found here: https://devmo-13.github.io/list-pagination-and-filtering/.
 
 ---
 
